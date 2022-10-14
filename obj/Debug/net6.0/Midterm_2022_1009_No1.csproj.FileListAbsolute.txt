@@ -1,0 +1,15 @@
+D:\GLC\KMUTT\Year 2\1st Sem\MDT211\Midterm\Midterm_2022_1009_No1\bin\Debug\net6.0\Midterm_2022_1009_No1.exe
+D:\GLC\KMUTT\Year 2\1st Sem\MDT211\Midterm\Midterm_2022_1009_No1\bin\Debug\net6.0\Midterm_2022_1009_No1.deps.json
+D:\GLC\KMUTT\Year 2\1st Sem\MDT211\Midterm\Midterm_2022_1009_No1\bin\Debug\net6.0\Midterm_2022_1009_No1.runtimeconfig.json
+D:\GLC\KMUTT\Year 2\1st Sem\MDT211\Midterm\Midterm_2022_1009_No1\bin\Debug\net6.0\Midterm_2022_1009_No1.dll
+D:\GLC\KMUTT\Year 2\1st Sem\MDT211\Midterm\Midterm_2022_1009_No1\bin\Debug\net6.0\Midterm_2022_1009_No1.pdb
+D:\GLC\KMUTT\Year 2\1st Sem\MDT211\Midterm\Midterm_2022_1009_No1\obj\Debug\net6.0\Midterm_2022_1009_No1.csproj.AssemblyReference.cache
+D:\GLC\KMUTT\Year 2\1st Sem\MDT211\Midterm\Midterm_2022_1009_No1\obj\Debug\net6.0\Midterm_2022_1009_No1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GLC\KMUTT\Year 2\1st Sem\MDT211\Midterm\Midterm_2022_1009_No1\obj\Debug\net6.0\Midterm_2022_1009_No1.AssemblyInfoInputs.cache
+D:\GLC\KMUTT\Year 2\1st Sem\MDT211\Midterm\Midterm_2022_1009_No1\obj\Debug\net6.0\Midterm_2022_1009_No1.AssemblyInfo.cs
+D:\GLC\KMUTT\Year 2\1st Sem\MDT211\Midterm\Midterm_2022_1009_No1\obj\Debug\net6.0\Midterm_2022_1009_No1.csproj.CoreCompileInputs.cache
+D:\GLC\KMUTT\Year 2\1st Sem\MDT211\Midterm\Midterm_2022_1009_No1\obj\Debug\net6.0\Midterm_2022_1009_No1.dll
+D:\GLC\KMUTT\Year 2\1st Sem\MDT211\Midterm\Midterm_2022_1009_No1\obj\Debug\net6.0\refint\Midterm_2022_1009_No1.dll
+D:\GLC\KMUTT\Year 2\1st Sem\MDT211\Midterm\Midterm_2022_1009_No1\obj\Debug\net6.0\Midterm_2022_1009_No1.pdb
+D:\GLC\KMUTT\Year 2\1st Sem\MDT211\Midterm\Midterm_2022_1009_No1\obj\Debug\net6.0\Midterm_2022_1009_No1.genruntimeconfig.cache
+D:\GLC\KMUTT\Year 2\1st Sem\MDT211\Midterm\Midterm_2022_1009_No1\obj\Debug\net6.0\ref\Midterm_2022_1009_No1.dll
